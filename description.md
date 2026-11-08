@@ -1,0 +1,1 @@
+Gen 1 Red/Blue music in FireRed and LeafGreen, synthesized live from your own imported Red data. 48 native cues, 42 tracks. No ROMs or audio distributed. Experimental and off by default; requires gen1recomp 0.4.1 and engine_internals permission. Sevii and one-shot jingles remain native. See README.md and TRACKS.md for details.

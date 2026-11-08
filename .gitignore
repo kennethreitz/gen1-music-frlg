@@ -1,0 +1,23 @@
+# Never distribute game-derived content, caches or local build output.
+source/
+assets/
+audio/
+cache/
+mod_cache/
+build/
+dist/
+baseroms/
+*.ogg
+*.wav
+*.mp3
+*.flac
+*.s16
+*.bin
+*.gb
+*.gbc
+*.gba
+*.rom
+*.zip
+.DS_Store
+._*
+__pycache__/
